@@ -14,11 +14,11 @@ run programm using command:-
 
 python detect.py --images images
 
-![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/pedestrian-detection/example/Screenshot%20from%202018-07-22%2011-34-37.png)
+![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/result/Screenshot%20from%202018-07-24%2022-10-14.png)
 
-![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/pedestrian-detection/example/Screenshot%20from%202018-07-22%2011-34-27.png)
+![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/result/Screenshot%20from%202018-07-24%2022-10-26.png)
 
 
-![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/pedestrian-detection/example/Screenshot%20from%202018-07-22%2011-34-33.png)
+![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/result/Screenshot%20from%202018-07-24%2022-10-48.png)
 
-![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/pedestrian-detection/example/Screenshot%20from%202018-07-22%2011-34-18.png)
+![alert](https://github.com/pdpsinghr/detect-pedestrian/blob/master/result/Screenshot%20from%202018-07-24%2022-10-55.png)
